@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1529431629 source:d:\programs\codeblocks\projs\liptontarjan\graf.cpp
+	"Graf.h"
+
+1529432661 d:\programs\codeblocks\projs\liptontarjan\graf.h
+	"Edge.h"
+	"Node.h"
+	"GeometryFunc.h"
+	"AdjacenyLUT.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<set>
+	<assert.h>
+	<vector>
+	<cmath>
+	<queue>
+	<string>
+
+1523015853 d:\programs\codeblocks\projs\liptontarjan\edge.h
+	<cmath>
+	"Position.h"
+	"Node.h"
+
+1522742264 d:\programs\codeblocks\projs\liptontarjan\node.h
+	<iostream>
+	"Position.h"
+	"Edge.h"
+
+1522568245 d:\programs\codeblocks\projs\liptontarjan\position.h
+
+1522743218 source:d:\programs\codeblocks\projs\liptontarjan\node.cpp
+	"Node.h"
+
+1522568281 source:d:\programs\codeblocks\projs\liptontarjan\position.cpp
+	"Position.h"
+
+1529432591 source:d:\programs\codeblocks\projs\liptontarjan\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<cstdio>
+	"Graf.h"
+
+1523015852 source:d:\programs\codeblocks\projs\liptontarjan\edge.cpp
+	"Edge.h"
+
+1528749068 source:d:\programs\codeblocks\projs\liptontarjan\geometryfunc.cpp
+	"GeometryFunc.h"
+
+1528749057 d:\programs\codeblocks\projs\liptontarjan\geometryfunc.h
+	"Node.h"
+
+1528999574 d:\programs\codeblocks\projs\liptontarjan\adjacenylut.h
+	<set>
+
+1528999414 source:d:\programs\codeblocks\projs\liptontarjan\adjacenylut.cpp
+	"AdjacenyLUT.h"
+
